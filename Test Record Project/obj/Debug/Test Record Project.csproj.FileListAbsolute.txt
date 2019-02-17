@@ -1,0 +1,16 @@
+E:\C# course (MIT)\Test Record Project\Test Record Project\bin\Debug\Test Record Project.exe.config
+E:\C# course (MIT)\Test Record Project\Test Record Project\bin\Debug\Test Record Project.exe
+E:\C# course (MIT)\Test Record Project\Test Record Project\bin\Debug\Test Record Project.pdb
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test Record Project.csprojResolveAssemblyReference.cache
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test_Record_Project.Properties.Resources.resources
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test Record Project.csproj.GenerateResource.Cache
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test Record Project.exe
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test Record Project.pdb
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test_Record_Project.QuestionsAns.resources
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test_Record_Project.testLogin.resources
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test_Record_Project.RegistrationF.resources
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test_Record_Project.result.resources
+E:\C# course (MIT)\Test Record Project\Test Record Project\bin\Debug\Test Record Project.exe.manifest
+E:\C# course (MIT)\Test Record Project\Test Record Project\bin\Debug\Test Record Project.application
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test Record Project.exe.manifest
+E:\C# course (MIT)\Test Record Project\Test Record Project\obj\Debug\Test Record Project.application
